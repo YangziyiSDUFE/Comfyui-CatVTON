@@ -25,5 +25,4 @@ tqdm
 transformers
 xformers
 yacs
-Ninja==1.11.1.1
  
